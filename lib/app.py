@@ -1,0 +1,8 @@
+print("Hello World!")
+print("My cat!")
+print("random TM i hope you have mercy on me i am an extra beginner who doesn't know anything")
+print("i am sad")
+print("can't wait for BOYZ II MEN")
+print("Goodbye!", end=" ")
+print("Friends are Gold", end="!!")
+print("How much is bread", end="!!!\n")
